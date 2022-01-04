@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Notetool/cmake-build-debug/CMakeFiles/Notetool.dir
+C:/Users/user/CLionProjects/Notetool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Notetool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
