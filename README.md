@@ -9,4 +9,4 @@ I use some of the cmd commands like color, pause, CDL, etc to improve the perfor
 
 I'm sorry the app UI is so simple and basic I will try to improve that in the future.
 
-Hope you like the app I program.
+Hope you like the app.
